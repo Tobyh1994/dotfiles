@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = higginstobias2@gmail.com
+	name = Toby Higgins
